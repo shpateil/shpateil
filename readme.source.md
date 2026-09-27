@@ -1,3 +1,9 @@
+<!--
+  Это исходник. README.md генерируется из него и закоммичен в репозиторий,
+  поэтому карточки видны на странице профиля.
+  Правь этот файл, потом запусти: npx readme-aura build
+-->
+
 <div align="center">
 
 # shpateil
@@ -6,13 +12,13 @@
 
 <br>
 
-<img src="https://stats-github-readme.vercel.app/api?username=shpateil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" height="195" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shpateil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="статистика github" height="165" />
 
-<img src="https://stats-github-readme.vercel.app/api/top-langs?username=shpateil&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=shpateil" alt="языки" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shpateil&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=shpateil" alt="языки" height="115" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shpateil&theme=dark&hide_border=true" alt="серия коммитов" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shpateil&theme=dark&hide_border=true" alt="серия коммитов" />
 
 <br>
 
